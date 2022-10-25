@@ -1,0 +1,4 @@
+furious	2
+home	4
+mama	2
+papa	3
